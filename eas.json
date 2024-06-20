@@ -21,6 +21,12 @@
     }
   },
   "submit": {
-    "production": {}
+    "production": {
+      "android":{
+        "buildType":"apk",
+        "serviceAccountKeyPath": "../thdt-website-0f4ca848750e.json",
+        "track": "internal"
+      }
+    }
   }
 }
