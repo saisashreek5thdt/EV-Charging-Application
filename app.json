@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/marker.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.evcharging.station"
     },
     "web": {
       "bundler": "metro",
